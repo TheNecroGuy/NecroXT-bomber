@@ -5,6 +5,7 @@ Terminal based sms bomber. Call bomb + protect list coming soon.
 ## Installation & Usage:-
 
 `apt install figlet`
+
 `git clone https://github.com/TheNecroGuy/NecroXT-bomber`
 
 `cd NecroXT-bomber`
