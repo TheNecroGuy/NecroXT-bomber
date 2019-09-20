@@ -3,7 +3,7 @@
 Terminal based sms bomber. Call bomb + protect list coming soon.
 
 ## Installation & Usage:-
-`git clone httpa://github.com/TheNecroGuy/NecroXT-bomber`
+`git clone https://github.com/TheNecroGuy/NecroXT-bomber`
 
 `cd NecroXT-bomber`
 
