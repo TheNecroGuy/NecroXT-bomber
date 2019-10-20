@@ -29,7 +29,11 @@ Make Sure You Are Using python3
 # To USE the Script Type The Following Commands in Termux...
 
 apt install git
+
 git clone https://github.com/TheNecroGuy/NecroXT-bomber.git
+
 cd NecroXT
+
 chmod +x NecroXT.sh
+
 ./NecroXT.sh
