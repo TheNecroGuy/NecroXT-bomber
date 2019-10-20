@@ -1,4 +1,5 @@
-# NecroXT-bomber
+# NecroXT-bomber INTRO and USES
+
 
 IT'S SMS AND CALL BOMBER TOOL CURRENTLY WORKING ON ANDROID TERMUX APP.
 CURRENTLY IT'S ONLY AVAILABLE FOR INDIA..... WE WILL ADD INTERNATIONAL BOMBING FEATURES IN OUR UPCOMING UPDATE.
@@ -9,3 +10,26 @@ THIS BOMBER HAVING LOTS OF APIS SO ITS PRETTY FASTER THEN OTHER BOMBERS.
 WE ARE STILL WORKING ON THIS TOO FOR BETTER DEVELOPMENT AND INTERFACE SO WE NEED YOUR ALL SUPPORT.
 THIS BOMBER DOESN'T CONTAINS ANY TYPE OF ADVERTISMENT SO ITS 100% EASY AND SAFE TO USE.
 SOME FUNCTIONS LIKE CALLING AND PROTECT LIST OPTIONS MAY NOT WORK AS ITS STILL IN UNDER MAINTENANCE.
+
+# THINKS TO REMEMBER BEFORE USING OUR TOOL
+
+
+The Script Requires A working Net Connection To Work..
+
+No Balance will be deducted for using this script to send SMS...
+
+Don't Put Spaces In Between Number Ex- 9999999999
+
+Make Sure To Update it for New Versions...
+
+That's All !!!
+
+Make Sure You Are Using python3
+
+# To USE the Script Type The Following Commands in Termux...
+
+apt install git
+git clone https://github.com/TheNecroGuy/NecroXT-bomber.git
+cd NecroXT
+chmod +x NecroXT.sh
+./NecroXT.sh
